@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Resources.Core.Companies
+namespace Resources.Core.Companies.Models.Domain
 {
     public class Company
     {
