@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Resources.Core
+namespace Resources.Core.Companies.Models.View
 {
-    public class Publisher
+    public class CompanyViewModel
     {
     }
 }
